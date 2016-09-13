@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/*
+/*More GIT problems
  *  Lab 4, Question 2
  */
 public class Q2_Arrays_Recycling_Truck {
